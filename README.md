@@ -112,6 +112,7 @@ streamlit run app.py
 ├── app.py
 ├── README.md
 
+How to run -  streamlit run app.py 
 📈 Conclusion
 
 This project demonstrates a complete real-world machine learning pipeline, from raw data handling to model deployment. It highlights the importance of feature consistency, preprocessing, and model evaluation while showcasing how machine learning models can be deployed for practical use using Streamlit.
